@@ -13,7 +13,6 @@
     "type": "git",
     "url": "git+https://github.com/sabadyshyna/goit-js-hw-13-image-finder.git"
   },
-  
   "homepage": "https://sabadyshyna.github.io/goit-js-hw-13-image-finder",
   "devDependencies": {
     "@babel/core": "^7.11.6",
@@ -44,6 +43,9 @@
     "webpackbar": "^4.0.0"
   },
   "dependencies": {
+    "@pnotify/core": "^5.2.0",
+    "animated-scroll-to": "^2.0.12",
+    "basiclightbox": "^5.0.3",
     "core-js": "^3.6.5",
     "handlebars": "^4.7.6"
   }
